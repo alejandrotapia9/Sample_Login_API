@@ -1,7 +1,7 @@
 {
-  "name": "coffee_society_db_api",
+  "name": "futbol_appapi",
   "version": "1.0.0",
-  "description": "api for the coffee society db",
+  "description": "api for a futbol app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
