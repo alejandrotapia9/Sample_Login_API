@@ -1,0 +1,21 @@
+{
+  "name": "coffee_society_db_api",
+  "version": "1.0.0",
+  "description": "api for the coffee society db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Tapia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "curl": "^0.1.4",
+    "express": "^4.16.1",
+    "jwt-simple": "^0.5.1",
+    "morgan": "^1.8.2",
+    "mssql": "^4.0.4",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {}
+}
